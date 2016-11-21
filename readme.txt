@@ -9,11 +9,11 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-SendX (https://sendx.io) is a lightweight marketing automation platform to grow your web business. It makes it extremely simple to convert your website visitors to customers and to nurture / engage with them with sendX sequences or mini courses.
+SendX (https://sendx.io) is a lightweight marketing automation platform to grow your blog. It makes it extremely simple to convert your blog visitors to subscribers and to nurture / engage with them with SendX sequences or mini courses.
 
 Installing this plugin will provide you various widgets like hello bars, popups, sliders, modals etc. which you can use to convert your visitors to blog subscribers. Once done, you can then use SendX's drip sequences and autoresponders to send your most popular blogs, email courses to your blog subscribers. 
 
-= The SendX Process =
+= Getting Started =
 
 Simply [sign up for a SendX account] (https://app.sendx.io/register) and install this
 plugin to get started. Once installed, we place a tracking script on your wordpress blog to
